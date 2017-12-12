@@ -6,3 +6,4 @@
 	- Bière
 	- Sucre
 	- Chips
+	- Cacahuètes
