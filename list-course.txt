@@ -4,3 +4,5 @@
 	- Oeufs
 	- Lait
 	- Bière
+	- Sucre
+	- Chips
